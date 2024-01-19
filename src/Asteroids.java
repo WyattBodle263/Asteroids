@@ -1133,7 +1133,7 @@ public class Asteroids
     public static void main(String[] args) {
         setup();
         appFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        appFrame.setSize(501, 585);
+        appFrame.setSize(565, 800);
 
         JPanel myPanel = new JPanel();
 
